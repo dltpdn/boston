@@ -3,7 +3,7 @@ import setuptools
 
 setuptools.setup(
     name="boston", # Replace with your own username
-    version="1.0.16",
+    version="1.0.17",
     author="julmubm",
     author_email="dltpdn@gmail.com",
     description="loading boston housing price dataset like sklearn.datasets.load_boston() style.",
