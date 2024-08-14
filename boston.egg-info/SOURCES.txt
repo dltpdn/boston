@@ -8,3 +8,4 @@ boston.egg-info/dependency_links.txt
 boston.egg-info/requires.txt
 boston.egg-info/top_level.txt
 boston/resources/boston_house_prices.csv
+boston/resources/descr.rst

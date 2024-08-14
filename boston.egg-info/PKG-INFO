@@ -1,6 +1,6 @@
 Metadata-Version: 2.1
 Name: boston
-Version: 1.0.16
+Version: 1.0.17
 Summary: loading boston housing price dataset like sklearn.datasets.load_boston() style.
 Home-page: https://github.com/dltpdn/boston
 Author: julmubm
