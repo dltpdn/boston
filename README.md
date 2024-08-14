@@ -17,3 +17,4 @@ df = pd.DataFrame(boston.data, columns=boston.feature_names)
 df['target'] = boston.target
 df
 ```
+![boston_housing_dataframe](example/boston_housing_dataframe.png)
